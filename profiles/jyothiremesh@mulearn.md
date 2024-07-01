@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **AHB to APB Bridge Verification**  | The AHB to APB bridge is an AHB slave which works as an interface between the high speed AHB and the low performance APB buses.| [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)            |
+| **Water Pollution Reduction Robotic Waste Collector**  | The project was to design a robotic waste collector which collects the non-living floating trash like plastic bottles that are disposed into ponds, estuaries and urban drainage. It is lightweight and portable in which the user can control the motion of the boat. | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
